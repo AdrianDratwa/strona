@@ -9,7 +9,7 @@
   }
 
 header {
-    background: #1c6188;
+    background: #127521;
     color: #fff;
     position: sticky;
     top: 0;
@@ -73,6 +73,7 @@ header {
   main {
     flex: 1;
     padding: 40px;
+    background: #f3f72d;
   }
   
   .glowny {
@@ -86,7 +87,7 @@ header {
   }
   
   .obramowka {
-    border: 2px solid #9ecbe4;
+    border: 2px solid #dd6a2b;
     border-radius: 7px;
     padding: 25px;
   }
@@ -131,7 +132,7 @@ header {
   }
 
   footer {
-    background: #bde4fa;
+    background: #cd7a1c;
     padding: 40px 0;
     display: flex;
     align-items: flex-start;
@@ -183,6 +184,9 @@ header {
     background: #1c6188;
     opacity: 0.5;
     margin-top: 20px;
+  }
+  #karuzela5{
+    margin-left: 17.5%;
   }
   
 
